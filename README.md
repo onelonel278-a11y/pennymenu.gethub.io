@@ -153,7 +153,7 @@ const menuItems = [
   { nameAr:"بيتزا لحم", nameEn:"Meat Pizza", price:11000, category:"food", image:"" },
   { nameAr:"ريزو كريسبي", nameEn:"Crispy Rizo", price:6500, category:"food", image:"" },
   { nameAr:"ريزو دجاج", nameEn:"Chicken Rizo", price:6500, category:"food", image:"" },
-  { nameAr:"ريزو لحم", nameEn:"Meat Rizo", price:8000, category:"food", image:"" },
+  { nameAr:"ريزو لحم", nameEn:"Meat Rizo", price:8000, category:"food", image:"imeges/1 (1).jpg" },
   { nameAr:"فنكر", nameEn:"Finger", price:2500, category:"food", image:"" }
 ];
 
