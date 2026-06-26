@@ -84,13 +84,13 @@ const categories = [
 
 const menuItems = [
   { nameAr:"ماء", nameEn:"Water", price:500, category:"cold", image:"" },
-  { nameAr:"كولا / سبرايت / فانتا", nameEn:"Cola / Sprite / Fanta", price:1000, category:"cold", image:"" },
+  { nameAr:"كولا / سبرايت / فانتا", nameEn:"Cola / Sprite / Fanta", price:1000, category:"cold", image:"imeges/1 (1).jpg" },
   { nameAr:"مشروب طاقة", nameEn:"Energy Drink", price:2000, category:"cold", image:"" },
   { nameAr:"موهيتو بلو هواي", nameEn:"Blue Hawaii Mojito", price:4000, category:"cold", image:"" },
   { nameAr:"موهيتو فراولة", nameEn:"Strawberry Mojito", price:4000, category:"cold", image:"" },
   { nameAr:"آيس كوفي", nameEn:"Iced Coffee", price:4000, category:"cold", image:"" },
 
-  { nameAr:"شاي", nameEn:"Tea", price:500, category:"hot", image:"" },
+  { nameAr:"شاي", nameEn:"Tea", price:500, category:"hot", image:"imeges/1 (1).jpg" },
   { nameAr:"قهوة", nameEn:"Coffee", price:2000, category:"hot", image:"" },
   { nameAr:"كابتشينو", nameEn:"Cappuccino", price:3000, category:"hot", image:"" },
   { nameAr:"هوت شوكليت", nameEn:"Hot Chocolate", price:3000, category:"hot", image:"" },
@@ -130,10 +130,10 @@ const menuItems = [
   { nameAr:"وافل لوتس", nameEn:"Lotus Waffle", price:5000, category:"waffle", image:"" },
   { nameAr:"وافل ستيك", nameEn:"Waffle Stick", price:5000, category:"waffle", image:"" },
 
-  { nameAr:"تفاحتين", nameEn:"Double Apple", price:6000, category:"shisha", image:"" },
-  { nameAr:"انجليزي", nameEn:"English", price:6000, category:"shisha", image:"" },
-  { nameAr:"ليمون و نعناع", nameEn:"Lemon Mint", price:6000, category:"shisha", image:"" },
-  { nameAr:"علك و نعناع", nameEn:"Gum Mint", price:6000, category:"shisha", image:"" },
+  { nameAr:"تفاحتين", nameEn:"Double Apple", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
+  { nameAr:"انجليزي", nameEn:"English", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
+  { nameAr:"ليمون و نعناع", nameEn:"Lemon Mint", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
+  { nameAr:"علك و نعناع", nameEn:"Gum Mint", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
 
   { nameAr:"لفة دجاج", nameEn:"Chicken Wrap", price:2000, category:"food", image:"" },
   { nameAr:"لفة لحم", nameEn:"Meat Wrap", price:3000, category:"food", image:"" },
@@ -146,12 +146,12 @@ const menuItems = [
   { nameAr:"رول دجاج", nameEn:"Chicken Roll", price:5000, category:"food", image:"" },
   { nameAr:"رول لحم", nameEn:"Meat Roll", price:6000, category:"food", image:"" },
   { nameAr:"رول كريسبي", nameEn:"Crispy Roll", price:6000, category:"food", image:"" },
-  { nameAr:"همبرغر", nameEn:"Hamburger", price:6000, category:"food", image:"" },
+  { nameAr:"همبرغر", nameEn:"Hamburger", price:6000, category:"food", image:"imeges/1 (1).jpg" },
   { nameAr:"كريسبي بوكس", nameEn:"Crispy Box", price:7000, category:"food", image:"" },
-  { nameAr:"لحم عجين", nameEn:"Lahm Bi Ajeen", price:5000, category:"food", image:"" },
+  { nameAr:"لحم عجين", nameEn:"Lahm Bi Ajeen", price:5000, category:"food", image:"imeges/1 (1).jpg" },
   { nameAr:"بيتزا دجاج", nameEn:"Chicken Pizza", price:9000, category:"food", image:"" },
   { nameAr:"بيتزا لحم", nameEn:"Meat Pizza", price:11000, category:"food", image:"" },
-  { nameAr:"ريزو كريسبي", nameEn:"Crispy Rizo", price:6500, category:"food", image:"" },
+  { nameAr:"ريزو كريسبي", nameEn:"Crispy Rizo", price:6500, category:"food", image:"imeges/1 (1).jpg" },
   { nameAr:"ريزو دجاج", nameEn:"Chicken Rizo", price:6500, category:"food", image:"" },
   { nameAr:"ريزو لحم", nameEn:"Meat Rizo", price:8000, category:"food", image:"imeges/1 (1).jpg" },
   { nameAr:"فنكر", nameEn:"Finger", price:2500, category:"food", image:"" }
