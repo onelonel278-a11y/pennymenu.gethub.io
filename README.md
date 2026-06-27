@@ -107,7 +107,7 @@ const menuItems = [
   { nameAr:"عصير رمان", nameEn:"Pomegranate Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_12_2026-06-27_05-57-28.jpg" },
   { nameAr:"عصير جزر", nameEn:"Carrot Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_13_2026-06-27_05-57-28.jpg" },
   { nameAr:"عصير تفاح", nameEn:"Apple Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_14_2026-06-27_05-57-29.jpg" },
-  { nameAr:"عصير بطيخ", nameEn:"Watermelon Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_15_2026-06-27_05-57-29.jpg" },
+  { nameAr:"عصير بطيخ", nameEn:"melon Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_15_2026-06-27_05-57-29.jpg" },
   { nameAr:"عصير كوكتيل", nameEn:"Cocktail Juice", price:4000, category:"juices", image:"New folder/juceeee/photo_16_2026-06-27_05-57-29.jpg" },
 
   { nameAr:"فراولة", nameEn:"Strawberry", price:5000, category:"shakes", image:"New folder/milkshakes/1.jpg" },
