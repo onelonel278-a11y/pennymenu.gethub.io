@@ -130,9 +130,9 @@ const menuItems = [
   { nameAr:"وافل لوتس", nameEn:"Lotus Waffle", price:5000, category:"waffle", image:"" },
   { nameAr:"وافل ستيك", nameEn:"Waffle Stick", price:5000, category:"waffle", image:"" },
 
-  { nameAr:"تفاحتين", nameEn:"Double Apple", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
-  { nameAr:"انجليزي", nameEn:"English", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
-  { nameAr:"ليمون و نعناع", nameEn:"Lemon Mint", price:6000, category:"shisha", image:"photo_2026-06-27_04-07-55.jpg" },
+  { nameAr:"تفاحتين", nameEn:"Double Apple", price:6000, category:"shisha", image:"hookah/photo_2026-06-27_04-08-48.jpg" },
+  { nameAr:"انجليزي", nameEn:"English", price:6000, category:"shisha", image:"hookah/photo_2026-06-27_04-08-53.jpg" },
+  { nameAr:"ليمون و نعناع", nameEn:"Lemon Mint", price:6000, category:"shisha", image:"hookah/photo_2026-06-27_04-07-55.jpg" },
   { nameAr:"علك و نعناع", nameEn:"Gum Mint", price:6000, category:"shisha", image:"hookah/photo_2026-06-27_04-08-42.jpg" },
 
   { nameAr:"لفة دجاج", nameEn:"Chicken Wrap", price:2000, category:"food", image:"" },
