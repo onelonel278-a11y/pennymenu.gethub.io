@@ -133,8 +133,7 @@ const menuItems = [
   { nameAr:"تفاحتين", nameEn:"Double Apple", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
   { nameAr:"انجليزي", nameEn:"English", price:6000, category:"shisha", image:"imeges/1 (1).jpg" },
   { nameAr:"ليمون و نعناع", nameEn:"Lemon Mint", price:6000, category:"shisha", image:"photo_2026-06-27_04-07-55.jpg" },
-  { nameAr:"علك و نعناع", nameEn:"Gum Mint", price:6000, category:"shisha", image:"7DDA5A1A-4D80-437C-906F-E73E1701BC8E.jpg
-  " },
+  { nameAr:"علك و نعناع", nameEn:"Gum Mint", price:6000, category:"shisha", image:"hookah/photo_2026-06-27_04-08-42.jpg" },
 
   { nameAr:"لفة دجاج", nameEn:"Chicken Wrap", price:2000, category:"food", image:"" },
   { nameAr:"لفة لحم", nameEn:"Meat Wrap", price:3000, category:"food", image:"" },
